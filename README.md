@@ -13,7 +13,7 @@ The new VolMemLyzer-V2 is a tool based on **functional programming paradigm** wi
 The taxonoy of the features produced by VolMemLyzer which based on plugin structure is summarised below using this interactive sunburst chart:
 
 
-![VolMemLyzerBurstGIF](https://github.com/ahlashkari/Temp-Volmemlyzer-Python-03/assets/103462177/7157ebd8-499c-43d3-9680-354070e2376b)
+![VolMemLyzerBurstGIF](https://drive.google.com/file/d/1ajkqJsfKdJWMR20tMD9xtV20d_kqBnTb/view?usp=drive_link)
 
 
 ## Pre-requisites
